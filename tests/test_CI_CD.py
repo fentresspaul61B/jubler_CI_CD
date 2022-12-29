@@ -1,4 +1,4 @@
-from packaged_logic_for_CI_CD.main import func1, func2
+from src.packaged_logic_for_CI_CD.main import func1, func2
 
 import unittest
 
