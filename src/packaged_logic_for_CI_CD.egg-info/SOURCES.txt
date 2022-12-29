@@ -1,0 +1,12 @@
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+src/packaged_logic_for_CI_CD/__init__.py
+src/packaged_logic_for_CI_CD/main.py
+src/packaged_logic_for_CI_CD.egg-info/PKG-INFO
+src/packaged_logic_for_CI_CD.egg-info/SOURCES.txt
+src/packaged_logic_for_CI_CD.egg-info/dependency_links.txt
+src/packaged_logic_for_CI_CD.egg-info/not-zip-safe
+src/packaged_logic_for_CI_CD.egg-info/requires.txt
+src/packaged_logic_for_CI_CD.egg-info/top_level.txt
